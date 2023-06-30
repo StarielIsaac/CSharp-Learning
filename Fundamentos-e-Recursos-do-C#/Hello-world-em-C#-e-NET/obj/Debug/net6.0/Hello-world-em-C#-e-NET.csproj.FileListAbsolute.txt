@@ -1,0 +1,15 @@
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/Hello-world-em-C#-e-NET
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/Hello-world-em-C#-e-NET.deps.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/Hello-world-em-C#-e-NET.runtimeconfig.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/Hello-world-em-C#-e-NET.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/ref/Hello-world-em-C#-e-NET.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/bin/Debug/net6.0/Hello-world-em-C#-e-NET.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.csproj.AssemblyReference.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.GeneratedMSBuildEditorConfig.editorconfig
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.AssemblyInfoInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.AssemblyInfo.cs
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.csproj.CoreCompileInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/ref/Hello-world-em-C#-e-NET.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Hello-world-em-C#-e-NET/obj/Debug/net6.0/Hello-world-em-C#-e-NET.genruntimeconfig.cache

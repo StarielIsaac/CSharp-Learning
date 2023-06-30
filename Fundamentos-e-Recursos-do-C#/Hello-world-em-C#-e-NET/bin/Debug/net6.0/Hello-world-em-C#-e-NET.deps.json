@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hello-world-em-C#-e-NET/1.0.0": {
+        "runtime": {
+          "Hello-world-em-C#-e-NET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hello-world-em-C#-e-NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
