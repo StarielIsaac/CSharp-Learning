@@ -16,6 +16,16 @@ Essas coisas que vamos aprender são super importantes para você entender como 
 
 E não para por aí! Vamos ver também os tipos de variáveis, que são como caixinhas onde você guarda diferentes tipos de informações, como números e textos. E claro, vamos aprender como fazer as contas básicas, tipo soma, subtração, multiplicação e divisão.
 
-E pra fechar com chave de ouro, vamos criar o famoso "Hello World!" em C#. É o primeiro programa que todo mundo faz quando está aprendendo uma nova linguagem, e você vai poder fazer o seu também!
+Vamos criar o famoso "Hello World!" em C#. É o primeiro programa que todo mundo faz quando está aprendendo uma nova linguagem, e você vai poder fazer o seu também!
+
+Vamos abordar os seguintes temas:
+
+Transformação entre tipos de variáveis: Aprenderemos como converter variáveis de um tipo para outro, permitindo a manipulação e interação entre diferentes tipos de dados.
+
+Estruturas de controle no C#: Veremos como utilizar estruturas de controle, como condicionais (if, else) e switch, para controlar o fluxo de execução do programa com base em condições específicas.
+
+Estruturas de repetição no C#: Exploraremos as estruturas de repetição (loops), como for, while e do-while, para executar blocos de código repetidamente enquanto determinadas condições forem atendidas.
+
+Todos esses conceitos serão fundamentais para a construção de lógicas de programação que interajam com os dados fornecidos pelos usuários do seu software, além de permitirem exibir informações e dados gerados pelo seu código. Com as estruturas de controle e de repetição, você poderá criar lógicas mais complexas e eficientes.
 
 Então, bora nessa! Tenho certeza que você vai curtir aprender C# e vai poder usar esse conhecimento para criar coisas incríveis. Vamos lá!
