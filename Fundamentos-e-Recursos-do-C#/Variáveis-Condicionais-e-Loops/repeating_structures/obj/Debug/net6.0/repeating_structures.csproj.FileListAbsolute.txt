@@ -1,0 +1,15 @@
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/repeating_structures
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/repeating_structures.deps.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/repeating_structures.runtimeconfig.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/repeating_structures.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/ref/repeating_structures.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/bin/Debug/net6.0/repeating_structures.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.csproj.AssemblyReference.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.GeneratedMSBuildEditorConfig.editorconfig
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.AssemblyInfoInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.AssemblyInfo.cs
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.csproj.CoreCompileInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/ref/repeating_structures.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Variáveis-Condicionais-e-Loops/repeating_structures/obj/Debug/net6.0/repeating_structures.genruntimeconfig.cache
