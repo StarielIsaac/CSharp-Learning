@@ -30,4 +30,13 @@ public class Program2
 }
 
 // Conversão de string para números
+public class Program3
+{
+    public static void Main()
+    {
+        string someString = "42";
+        int convertInt = Convert.ToInt32(someString);
 
+        Console.WriteLine(convertInt);
+    }
+}
