@@ -32,11 +32,26 @@ public class Program2
 // Conversão de string para números
 public class Program3
 {
+  public static void Main()
+  {
+    string someString = "42";
+    int convertInt = Convert.ToInt32(someString);
+
+    Console.WriteLine(convertInt);
+  }
+}
+
+public class Program4
+{
     public static void Main()
     {
-        string someString = "42";
-        int convertInt = Convert.ToInt32(someString);
+        int? number = 0;
 
-        Console.WriteLine(convertInt);
+        if (number > 0)
+            Console.WriteLine("maior que zero");
+        else if (number < 0)
+            Console.WriteLine("menor que zero");
+        else
+            Console.WriteLine("igual a zero");
     }
 }
