@@ -43,15 +43,36 @@ public class Program3
 
 public class Program4
 {
-    public static void Main()
-    {
-        int? number = 0;
+  public static void Main()
+  {
+    int? number = 0;
 
-        if (number > 0)
-            Console.WriteLine("maior que zero");
-        else if (number < 0)
-            Console.WriteLine("menor que zero");
-        else
-            Console.WriteLine("igual a zero");
+    if (number > 0)
+      Console.WriteLine("maior que zero");
+    else if (number < 0)
+      Console.WriteLine("menor que zero");
+    else
+      Console.WriteLine("igual a zero");
+  }
+}
+
+public class Program5
+{
+  public static void Main()
+  {
+    int? number = 0;
+
+    switch (number)
+    {
+      case > 0:
+        Console.WriteLine("maior que 0");
+        break;
+      case 0:
+        Console.WriteLine("igual a zero");
+        break;
+      default:
+        Console.WriteLine("menor que zero");
+        break;
     }
+  }
 }
