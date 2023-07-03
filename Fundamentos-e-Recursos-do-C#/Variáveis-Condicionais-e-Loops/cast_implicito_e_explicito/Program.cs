@@ -76,3 +76,11 @@ public class Program5
     }
   }
 }
+
+// >	Maior	a > b	Se a for maior que b
+// >=	Maior ou igual	a >= b	Se a for maior ou igual a b
+// <	Menor	a < b	Se a for menor que b
+// <=	Menor ou igual	a <= b	Se a for menor ou igual a b
+// ==	Igual	a == b	Se a for igual a b
+// !=	Diferente	a != b	Se a for diferente de b
+
