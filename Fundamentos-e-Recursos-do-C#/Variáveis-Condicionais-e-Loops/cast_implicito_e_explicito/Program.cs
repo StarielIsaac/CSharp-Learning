@@ -84,3 +84,31 @@ public class Program5
 // ==	Igual	a == b	Se a for igual a b
 // !=	Diferente	a != b	Se a for diferente de b
 
+public class Program6
+{
+  public static string IdentifyPolygon(int sideCount)
+  {
+    string? name;
+    switch (sideCount)
+    {
+      case < 3:
+        name = "Não é um polígono";
+        break;
+      case 3:
+        name = "Triângulo";
+        break;
+      case 4:
+        name = "Quadrado";
+        break;
+      case 5:
+        name = "Pentágono";
+        break;
+      default:
+        name = "Polígono não identificado";
+        break;
+    }
+    return name;
+  }
+}
+
+
