@@ -37,4 +37,4 @@ foreach (var vote in votes)
     continue;
   countAll++;
 }
-Console.WriteLine(countAll + 'votos válidos');
+Console.WriteLine(countAll + "votos válidos");
