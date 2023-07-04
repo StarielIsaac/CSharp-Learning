@@ -32,22 +32,54 @@ catch (Exception ex)
 
 class Verify
 {
-    public bool VerifyArray(string[] array)
+  public bool VerifyArray(string[] array)
+  {
+    try
     {
-        try
-        {
-            if (array == null || array.Length < 5)
-            {
-                throw new ArgumentException("O array é nulo ou possui menos de 5 elementos.");
-            }
+      if (array == null || array.Length < 5)
+      {
+        throw new ArgumentException("O array é nulo ou possui menos de 5 elementos.");
+      }
 
-            return true;
-        }
-        catch (ArgumentException ex)
-        {
-            Console.WriteLine(ex.Message);
-            throw;
-        }
+      return true;
     }
+    catch (ArgumentException ex)
+    {
+      Console.WriteLine(ex.Message);
+      throw;
+    }
+  }
 }
 
+//A instrução finally é a última parte de um bloco try-catch e, caso esteja presente, sempre será executada.
+
+class VerifyProduct
+{
+  public bool VerifyProductValidity(int productId)
+  {
+    Database db = new Database();
+
+    try
+    {
+      db.Open();
+
+      var product = db.GetProduct(productId);
+
+      if (product == null)
+      {
+        throw new NullReferenceException("Produto não encontrado.");
+      }
+
+      return product;
+    }
+    catch (NullReferenceException ex)
+    {
+      Console.WriteLine(ex.Message);
+      throw;
+    }
+    finally
+    {
+      db.Close();
+    }
+  }
+}
