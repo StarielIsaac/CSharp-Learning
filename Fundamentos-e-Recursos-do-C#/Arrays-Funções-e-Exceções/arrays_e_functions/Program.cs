@@ -15,4 +15,12 @@ Console.WriteLine(myThirdArray[0]);
 
 
 //Para declarar e criar um Array multidimensional:
+class PlayingWithArrays
+{
+  public static void muldiDimArrays()
+  {
+    int[,] multiDimensionalArray = { { 1, 2, 3 }, { 4, 5, 6 } };
+  }
+}
+
 
