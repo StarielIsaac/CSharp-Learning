@@ -1,0 +1,15 @@
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.csproj.AssemblyReference.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.AssemblyInfoInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.AssemblyInfo.cs
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.csproj.CoreCompileInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/arrays_e_functions
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/arrays_e_functions.deps.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/arrays_e_functions.runtimeconfig.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/arrays_e_functions.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/ref/arrays_e_functions.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/bin/Debug/net6.0/arrays_e_functions.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/ref/arrays_e_functions.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Arrays-Funções-e-Exceções/arrays_e_functions/obj/Debug/net6.0/arrays_e_functions.genruntimeconfig.cache
