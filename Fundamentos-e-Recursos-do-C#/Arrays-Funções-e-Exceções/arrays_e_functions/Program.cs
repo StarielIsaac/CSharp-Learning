@@ -39,3 +39,32 @@ class ArraysJagged
   }
 }
 
+//Uma função é um bloco de código contendo um conjunto de instruções. Também pode ser chamada de Método.
+
+//O uso de funções nos fornece inúmeros benefícios no desenvolvimento de um programa, tais como: 
+// separação de responsabilidades, reuso de código e facilitação da manutenção.
+
+class ProgramImc
+{
+  public double CalculateImc(int weigth, double heigth)
+  {
+    return weigth / (heigth * heigth);
+  }
+
+  //função sem retorno
+  public void SendEmail() 
+{
+  // Bloco de código que vai conter tudo que for necessário para o envio de um e-mail
+}
+
+//função com retorno
+public int CalculateAgeByYear(int yearOfBirth) 
+{     
+  return DateTime.Now.Year - yearOfBirth;
+}
+
+public bool ValidateComingOfAge(int age) 
+{
+  return age >= 18;
+}
+}
