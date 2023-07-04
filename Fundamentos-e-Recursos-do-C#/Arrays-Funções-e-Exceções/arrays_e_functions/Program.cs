@@ -10,3 +10,4 @@ Console.WriteLine(mySecondArray[0]);
 
 //Outro detalhe importante é que o tamanho de um Array em C# é imutável, ou seja,
 // assim que a instância de um Array é criada, o seu tamanho não pode ser alterado.
+
