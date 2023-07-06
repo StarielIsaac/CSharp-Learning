@@ -128,3 +128,14 @@ public class DataUtilNow
       }
   }
 
+
+//De forma similar, temos as propriedades que retornam Hora, Minuto, Segundo, Milissegundo e Dia da semana.
+  // - .Hour, 
+  // - .Minute, 
+  // - .Second, 
+  // - .Millisecond
+  // - .DayOfWeek 
+  
+
+
+
