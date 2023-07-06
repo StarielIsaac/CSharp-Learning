@@ -42,8 +42,30 @@ IEnumerable<int> listNumbers = Enumerable.Range(1, 10);
 string numbersText = string.Join(',', listNumbers); // concatenando cada numero do array, separando-os por vírgula.
 
 
-
 //interpolação -> processo de inserir o valor de uma variável em parte de uma string.
 string textString = "string";
 string text = $"Isso é uma {textString}";
 
+
+//Datas - No C# podemos tratar os momentos de tempo com a biblioteca 'DateTime'.
+
+// Data, composta por:
+//   - Dia
+//   - Mês
+//   - Ano
+// Horário, composto por:
+//   - Horas
+//   - Minutos
+//   - Segundos
+//   - Milissegundos
+
+//instância com os parâmetros de ano, dia, mês, hora, minuto e segundo definidos respectivamente; 
+//além disso, usamos o ToString() para imprimir essa data.
+public class DataUtil
+{
+    public static void Main(string[] args)
+    {
+        var date = new DateTime(2022, 10, 2, 8, 35, 0);
+        Console.WriteLine(date.ToString()); // 02/10/2022 08:35:00
+    }
+}
