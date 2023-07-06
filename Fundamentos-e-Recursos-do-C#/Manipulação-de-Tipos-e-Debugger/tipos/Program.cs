@@ -4,7 +4,7 @@
 string textOne = "Você está aprendendo sobre ";
 string textTwo = "Strings em C#, ";
 string textThree = "e agora sabe concatenar textos utilizando a função Concat()!";
-string result = string.Concat(textOne, textTwo, textThree); 
+string result = string.Concat(textOne, textTwo, textThree);
 
 // Split() - Para separarmos uma string em várias
 // A função Split() retorna um array de strings
@@ -26,7 +26,7 @@ int index2 = indexNull1.IndexOf("e", 6); //11
 
 
 // Contains() - Verificar se uma string está contida em outra string, ou em um array.
-List<string> languages = new List<string> 
+List<string> languages = new List<string>
 {
  "c#",
  "java",
@@ -59,15 +59,15 @@ string text = $"Isso é uma {textString}";
 //   - Segundos
 //   - Milissegundos
 
-//instância com os parâmetros de ano, dia, mês, hora, minuto e segundo definidos respectivamente; 
+//Instância com os parâmetros de ano, dia, mês, hora, minuto e segundo definidos respectivamente; 
 //além disso, usamos o ToString() para imprimir essa data.
 public class DataUtil
 {
-    public static void Main(string[] args)
-    {
-        var date = new DateTime(2022, 10, 2, 8, 35, 0);
-        Console.WriteLine(date.ToString()); // 02/10/2022 08:35:00
-    }
+  public static void Main(string[] args)
+  {
+    var date = new DateTime(2022, 10, 2, 8, 35, 0);
+    Console.WriteLine(date.ToString()); // 02/10/2022 08:35:00
+  }
 }
 
 
@@ -75,11 +75,21 @@ public class DataUtil
 
 
 //DateTime.Now
-  public class DataUtilNow
+public class DataUtilNow
+{
+  public string GetTimeNow()
   {
-      public static string Main(string[] args)
+    var dataType = DateTime.Now;
+    return "O momento de tempo atual é " + dataType;
+  }
+}
+
+  public class DataUtilDate
+  {
+      public static void Main(string[] args)
       {
-          var dataType = DateTime.Now;
-          return "O momento de tempo atual é " + dataType;
+          var day = new DateTime(2022, 10, 2, 8, 35, 0);
+          var dateOnly = day.Date;
+          Console.WriteLine(dateOnly.ToString());
       }
   }
