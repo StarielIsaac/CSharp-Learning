@@ -117,5 +117,14 @@ public class DataUtilNow
       }
   }
 
-
+//DateTime.Year - acessa o componente do ano em uma instância da DateTime
+  public class DataUtilYear
+  {
+      public static void Main(string[] args)
+      {
+          var exemple = new DateTime(2022, 10, 2, 8, 35, 0);
+          var yearOnly = exemple.Year;
+          Console.WriteLine(yearOnly.ToString()); //2022
+      }
+  }
 
