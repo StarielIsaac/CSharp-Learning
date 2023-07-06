@@ -37,5 +37,7 @@ List<string> languages = new List<string>
 bool languageExists = languages.Contains("c#"); //retorno um booleano, ou seja, true ou false.
 
 
-// Join() - 
+// Join() - Concatena uma coleção de valores em uma string.
+IEnumerable<int> listNumbers = Enumerable.Range(1, 10);
+string numbersText = string.Join(',', listNumbers); // concatenando cada numero do array, separando-os por vírgula.
 
