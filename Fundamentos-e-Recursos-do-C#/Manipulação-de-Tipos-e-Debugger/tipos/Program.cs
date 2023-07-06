@@ -84,12 +84,27 @@ public class DataUtilNow
   }
 }
 
+// DateTime.Date - acessa o componente da data em uma instância da DateTime
   public class DataUtilDate
   {
       public static void Main(string[] args)
       {
           var day = new DateTime(2022, 10, 2, 8, 35, 0);
           var dateOnly = day.Date;
-          Console.WriteLine(dateOnly.ToString());
+          Console.WriteLine(dateOnly.ToString()); //02/10/2022.
       }
   }
+
+// DateTime.Day -  representa um momento de tempo e retorna um valor inteiro entre 1 e 31.
+  public class DataUtilDay
+  {
+      public static void Main(string[] args)
+      {
+          var example = new DateTime(2022, 10, 2, 8, 35, 0);
+          var dayOnly = example.Day;
+          Console.WriteLine(dayOnly.ToString());
+      }
+  }
+
+  
+
