@@ -69,3 +69,17 @@ public class DataUtil
         Console.WriteLine(date.ToString()); // 02/10/2022 08:35:00
     }
 }
+
+
+//Principais propriedades da DateTime
+
+
+//DateTime.Now
+  public class DataUtilNow
+  {
+      public static string Main(string[] args)
+      {
+          var dataType = DateTime.Now;
+          return "O momento de tempo atual é " + dataType;
+      }
+  }
