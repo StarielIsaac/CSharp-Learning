@@ -41,3 +41,9 @@ bool languageExists = languages.Contains("c#"); //retorno um booleano, ou seja, 
 IEnumerable<int> listNumbers = Enumerable.Range(1, 10);
 string numbersText = string.Join(',', listNumbers); // concatenando cada numero do array, separando-os por vírgula.
 
+
+
+//interpolação -> processo de inserir o valor de uma variável em parte de uma string.
+string textString = "string";
+string text = $"Isso é uma {textString}";
+
