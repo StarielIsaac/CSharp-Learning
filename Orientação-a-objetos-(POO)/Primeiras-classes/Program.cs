@@ -1,6 +1,0 @@
-﻿namespace Program;
-
-class Rocket
-{
-
-}
