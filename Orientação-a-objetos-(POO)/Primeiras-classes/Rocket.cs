@@ -15,10 +15,20 @@
 //construtores -> métodos chamados toda vez que uma instância de uma classe é criada
 class Rocket1
 {
-  string Name { get; set; }
+  private string _Nome;
+  private int _Fuel { get; set; } = 0;
+  private decimal _Price { get; set; }
 
-  public Rocket1(string nome)
+  public Rocket1(string nome, decimal price)
   {
-    Name = nome;
+    _Nome = nome;
+    _Price = price;
   }
+
+  public string ShowName()
+  {
+    return this._Nome;
+  }
+// Para intanciar essa classe -> Rocket1 firstRocket = new Rocket1("Apollo 11", 23234,3)
 }
+
