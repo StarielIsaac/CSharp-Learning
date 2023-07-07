@@ -137,5 +137,20 @@ public class DataUtilNow
   // - .DayOfWeek 
   
 
+//Principais funções da DateTime:
 
+// .Add(TimeSpan value): soma um TimeSpan, positivo ou negativo, à data que chamou o método.
+// .AddYears(int value): Adiciona uma quantidade de anos a uma data.
+// .AddMonths(int value): Adiciona uma quantidade de meses a uma data.
+// .AddDays(double value): Adiciona uma quantidade de dias a uma data.
+// .AddHours(double value): Adiciona uma quantidade de horas a uma data.
+// .AddMinutes(double value): Adiciona uma quantidade de minutos a uma data.
+// .AddSeconds(double value): Adiciona uma quantidade de segundos a uma data.
+// .AddMilliseconds(double value): Adiciona uma quantidade de milissegundos a uma data.
+
+
+// .Compare(DateTime t1, DateTime t2) - recebe duas DateTime como parâmetro, compara e retorna um valor que representa 
+//qual data é anterior ou posterior
+
+//.ToString() -  converte o valor de um DateTime para uma string equivalente utilizando os critérios padrões do C#
 
