@@ -1,0 +1,15 @@
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/tipos
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/tipos.deps.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/tipos.runtimeconfig.json
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/tipos.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/ref/tipos.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/bin/Debug/net6.0/tipos.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.csproj.AssemblyReference.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.AssemblyInfoInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.AssemblyInfo.cs
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.csproj.CoreCompileInputs.cache
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/ref/tipos.dll
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.pdb
+/home/starielisaac/Documentos/CSharp-Learning/Fundamentos-e-Recursos-do-C#/Manipulação-de-Tipos-e-Debugger/tipos/obj/Debug/net6.0/tipos.genruntimeconfig.cache
